@@ -1,1 +1,2 @@
 c:\users\lenovo\documents\visual studio 2015\Projects\ProjectMini\ProjectMini\bin\Debug\ProjectMini.exe.config
+C:\Users\Lenovo\Desktop\ProjectMini\ProjectMini\bin\Debug\ProjectMini.exe.config
