@@ -1,2 +1,8 @@
 c:\users\lenovo\documents\visual studio 2015\Projects\ProjectMini\ProjectMini\bin\Debug\ProjectMini.exe.config
 C:\Users\Lenovo\Desktop\ProjectMini\ProjectMini\bin\Debug\ProjectMini.exe.config
+C:\Users\Lenovo\Desktop\ProjectMini\ProjectMini\obj\Debug\ProjectMini.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ProjectMini\ProjectMini\obj\Debug\ProjectMini.PersonInfo.resources
+C:\Users\Lenovo\Desktop\ProjectMini\ProjectMini\obj\Debug\ProjectMini.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ProjectMini\ProjectMini\obj\Debug\ProjectMini.StudentInfo.resources
+C:\Users\Lenovo\Desktop\ProjectMini\ProjectMini\obj\Debug\ProjectMini.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\ProjectMini\ProjectMini\obj\Debug\ProjectMini.GroupsInfo.resources
